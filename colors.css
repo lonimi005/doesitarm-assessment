@@ -1,0 +1,18 @@
+body{
+  background: #272b2f;  /* fallback for old browsers */
+}
+
+.bg-darkest{
+  background: rgb(18 20 22);
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.text-gray-300{
+  color: rgb(209 213 219);
+}
+
+#callToActionButton:hover{
+  background: #808bed;
+}

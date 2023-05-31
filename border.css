@@ -1,0 +1,13 @@
+.border{
+  margin: 20px 0px;
+  border: solid 1px white;
+  border-radius: 5px;
+  padding: 30px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.links{
+  border-right: solid white;
+  padding-right: 10px;
+}
